@@ -2,7 +2,7 @@
 
 ### Data Analyst & Aspiring Data & AI Engineer
 
-I'm a data professional transitioning into **Data and AI Engineering**. My work revolves around integrating **Large Language Models (LLMs)** with traditional data workflows, with a strong focus on **Retrieval-Augmented Generation (RAG)** and **Knowledge Extraction**.
+I'm a data professional transitioning into **Data and AI Engineering**. My work revolves around integrating **Large Language Models (LLMs)** with traditional data workflows, with a strong focus on **Retrieval-Augmented Generation (RAG)** and **Knowledge Extraction**. I have extensive experience working with **OpenAI & OpenAI-compatible APIs** to build intelligent applications.
 
 ---
 
@@ -14,8 +14,8 @@ I'm a data professional transitioning into **Data and AI Engineering**. My work 
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-- **Data & AI:** ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) **RAG**, **Knowledge Extraction**, **LLM Integration**.
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- **Data & AI:** ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-1C3C3C?style=for-the-badge&logoColor=white) **RAG**, **Knowledge Extraction**, **LLM Integration**.
 - **Database & Tools:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 - **Deployment:** ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Deno](https://img.shields.io/badge/deno%20-%23ffffff.svg?style=for-the-badge&logo=deno&logoColor=000000)
 
