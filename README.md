@@ -1,8 +1,9 @@
 # Hi there, I'm Paavo Reinikka 👋
 
-### Data Analyst & Aspiring Data & AI Engineer
+### Data Analyst | Data & AI Engineering
 
-I'm a data professional transitioning into **Data and AI Engineering**. My work revolves around integrating **Large Language Models (LLMs)** with traditional data workflows, with a strong focus on **Retrieval-Augmented Generation (RAG)** and **Knowledge Extraction**. I have extensive experience working with **OpenAI & OpenAI-compatible APIs** to build intelligent applications.
+I am a data professional specializing in the integration of **Large Language Models (LLMs)** with traditional data workflows. My expertise focuses on **Retrieval-Augmented Generation (RAG)**, **Knowledge Extraction**, and building applications with **OpenAI & OpenAI-compatible APIs**. I also have some experience with local models (e.g., using **Ollama**), and a reasonable grasp of model architectures and **Pytorch.**
+
 
 ---
 
