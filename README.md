@@ -39,5 +39,4 @@ I am a data professional specializing in the integration of **Large Language Mod
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaavoReinikka&show_icons=true&theme=radical" alt="Paavo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaavoReinikka&layout=compact&theme=radical" alt="Top Langs" />
 </p>
