@@ -1,4 +1,4 @@
-# Hi there, I'm Paavo Reinikka 👋
+# Paavo Reinikka's Github landing site
 
 ### Data Analyst | Data & AI Engineering
 
