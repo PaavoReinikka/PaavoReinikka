@@ -33,7 +33,6 @@ I am a data professional specializing in the integration of **Large Language Mod
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/reinikka-paavo-553a4316a/)
 - [Portfolio Site (Netlify)](https://paavo-reinikka.netlify.app/)
-- [Portfolio Site (Deno)](https://paavo-portfolio.deno.dev/)
 
 ---
 
