@@ -1,6 +1,6 @@
-const { graphql } = require("@octokit/graphql");
-const fs = require("fs");
-require("dotenv").config();
+import { graphql } from "@octokit/graphql";
+import fs from "fs";
+import "dotenv/config";
 
 const TOKEN = process.env.GH_STATS_TOKEN;
 const USERNAME = process.env.GH_USERNAME;
@@ -103,7 +103,6 @@ function generateSVG(stats) {
   const showCurrent = COMMIT_DISPLAY === "current" || COMMIT_DISPLAY === "both";
   const showBoth = COMMIT_DISPLAY === "both";
 
-  // Adjust height based on whether we show both commit types
   const height = showBoth ? 220 : 195;
 
   return `

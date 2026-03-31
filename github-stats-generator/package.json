@@ -1,6 +1,7 @@
 {
   "name": "github-stats-generator",
   "version": "1.0.0",
+  "type": "module",
   "description": "Custom GitHub stats generator for profile README",
   "main": "generate-stats.js",
   "scripts": {
