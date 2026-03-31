@@ -25,7 +25,7 @@ I am a data professional specializing in the integration of **Large Language Mod
 ### 📂 Projects I've been working on recently
 - **[QueryBooks](https://github.com/PaavoReinikka/QueryBooks):** Application for loading books into a PostgreSQL database and querying them using LLMs/RAG.
 - **[KnowledgeExtraction](https://github.com/PaavoReinikka/KnowledgeExtraction):** A set of utilities designed for hybrid RAG systems.
-- **[data-wrangling-utils](https://github.com/PaavoReinikka/data-wrangling-utils):** An evolving collection of cheatsheets and how-to's on the potential use of basic UNIX tools in data engineers workflow.
+- **[data-wrangling-utils](https://github.com/PaavoReinikka/data-wrangling-utils):** A collection of cheatsheets and how-to's on the potential use of basic UNIX tools in data engineers workflow.
 - **[BranchAndBound](https://github.com/PaavoReinikka/BranchAndBound):** Core for BnB algorithm written in Rust, and some applications using it (ML related, with Python interfaces).
 
 ---
