@@ -1,0 +1,45 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'github-stats-generator/**'
+      - '.github/workflows/update-stats.yml'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: github-stats-generator
+
+      - name: Generate Stats SVG
+        run: node generate-stats.js
+        working-directory: github-stats-generator
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          GH_USERNAME: PaavoReinikka
+          INCLUDE_PRIVATE: false
+          COMMIT_DISPLAY: current
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update github stats" && git push)

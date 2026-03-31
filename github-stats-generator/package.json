@@ -1,0 +1,13 @@
+{
+  "name": "github-stats-generator",
+  "version": "1.0.0",
+  "description": "Custom GitHub stats generator for profile README",
+  "main": "generate-stats.js",
+  "scripts": {
+    "start": "node generate-stats.js"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^8.2.1",
+    "dotenv": "^16.4.7"
+  }
+}
