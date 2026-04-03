@@ -19,11 +19,11 @@
     
     <g transform="translate(0, 25)">
       <text x="0" y="15" class="stat">Commits (Current Year):</text>
-      <text x="170" y="15" class="stat bold">802</text>
+      <text x="170" y="15" class="stat bold">804</text>
     </g>
     <g transform="translate(0, 50)">
       <text x="0" y="15" class="stat">Total PRs:</text>
-      <text x="170" y="15" class="stat bold">42</text>
+      <text x="170" y="15" class="stat bold">44</text>
     </g>
     <g transform="translate(0, 75)">
       <text x="0" y="15" class="stat">Total Issues:</text>
