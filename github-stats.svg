@@ -8,7 +8,7 @@
 
   <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#272822" stroke="#49483E"/>
 
-  <text x="25" y="35" class="header">Paavo Reinikka's GitHub Stats</text>
+  <text x="25" y="35" class="header">Paavo Reinikka's public GitHub Stats</text>
 
   <g transform="translate(25, 60)">
     <g transform="translate(0, 0)">
@@ -19,7 +19,7 @@
     
     <g transform="translate(0, 25)">
       <text x="0" y="15" class="stat">Commits (Current Year):</text>
-      <text x="170" y="15" class="stat bold">882</text>
+      <text x="170" y="15" class="stat bold">779</text>
     </g>
     <g transform="translate(0, 50)">
       <text x="0" y="15" class="stat">Total PRs:</text>
