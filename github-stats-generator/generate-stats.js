@@ -116,7 +116,7 @@ function generateSVG(stats) {
 
   <rect x="0.5" y="0.5" width="494" height="${height - 1}" rx="4.5" fill="#272822" stroke="#49483E"/>
 
-  <text x="25" y="35" class="header">${stats.name}'s GitHub Stats</text>
+  <text x="25" y="35" class="header">${stats.name}'s public GitHub Stats</text>
 
   <g transform="translate(25, 60)">
     <g transform="translate(0, 0)">

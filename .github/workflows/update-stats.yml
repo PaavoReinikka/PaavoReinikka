@@ -36,7 +36,7 @@ jobs:
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
           GH_USERNAME: PaavoReinikka
-          INCLUDE_PRIVATE: true
+          INCLUDE_PRIVATE: false
           COMMIT_DISPLAY: current
 
       - name: Commit and Push
