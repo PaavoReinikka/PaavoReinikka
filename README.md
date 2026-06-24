@@ -19,7 +19,7 @@ I am a data professional specializing in the integration of **Large Language Mod
 - **Data & AI:** ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-1C3C3C?style=for-the-badge&logoColor=white) **RAG**, **Knowledge Extraction**, **LLM Integration**.
 - **Database & Tools:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 - **Deployment:** ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Deno](https://img.shields.io/badge/deno%20-%23ffffff.svg?style=for-the-badge&logo=deno&logoColor=000000)
-- **Cloud:** ![Azure](https://shields.io), ![GCP](https://shields.io), IaC
+- **Cloud:** ![microsoftazure](https://shields.io), ![googlecloud](https://shields.io), IaC
 ---
 
 ### 📂 Projects I've been working on recently
