@@ -23,7 +23,7 @@
     </g>
     <g transform="translate(0, 50)">
       <text x="0" y="15" class="stat">Total PRs:</text>
-      <text x="170" y="15" class="stat bold">30</text>
+      <text x="170" y="15" class="stat bold">32</text>
     </g>
     <g transform="translate(0, 75)">
       <text x="0" y="15" class="stat">Total Issues:</text>
